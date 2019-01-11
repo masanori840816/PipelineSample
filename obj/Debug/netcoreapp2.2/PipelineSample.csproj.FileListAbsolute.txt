@@ -1,0 +1,14 @@
+C:\Users\masan\OneDrive\Documents\GitHub\PipelineSample\PipelineSample\bin\Debug\netcoreapp2.2\PipelineSample.deps.json
+C:\Users\masan\OneDrive\Documents\GitHub\PipelineSample\PipelineSample\bin\Debug\netcoreapp2.2\PipelineSample.runtimeconfig.json
+C:\Users\masan\OneDrive\Documents\GitHub\PipelineSample\PipelineSample\bin\Debug\netcoreapp2.2\PipelineSample.runtimeconfig.dev.json
+C:\Users\masan\OneDrive\Documents\GitHub\PipelineSample\PipelineSample\bin\Debug\netcoreapp2.2\PipelineSample.dll
+C:\Users\masan\OneDrive\Documents\GitHub\PipelineSample\PipelineSample\bin\Debug\netcoreapp2.2\PipelineSample.pdb
+C:\Users\masan\OneDrive\Documents\GitHub\PipelineSample\PipelineSample\obj\Debug\netcoreapp2.2\PipelineSample.csprojAssemblyReference.cache
+C:\Users\masan\OneDrive\Documents\GitHub\PipelineSample\PipelineSample\obj\Debug\netcoreapp2.2\PipelineSample.csproj.CoreCompileInputs.cache
+C:\Users\masan\OneDrive\Documents\GitHub\PipelineSample\PipelineSample\obj\Debug\netcoreapp2.2\PipelineSample.RazorAssemblyInfo.cache
+C:\Users\masan\OneDrive\Documents\GitHub\PipelineSample\PipelineSample\obj\Debug\netcoreapp2.2\PipelineSample.RazorAssemblyInfo.cs
+C:\Users\masan\OneDrive\Documents\GitHub\PipelineSample\PipelineSample\obj\Debug\netcoreapp2.2\PipelineSample.AssemblyInfoInputs.cache
+C:\Users\masan\OneDrive\Documents\GitHub\PipelineSample\PipelineSample\obj\Debug\netcoreapp2.2\PipelineSample.AssemblyInfo.cs
+C:\Users\masan\OneDrive\Documents\GitHub\PipelineSample\PipelineSample\obj\Debug\netcoreapp2.2\PipelineSample.RazorTargetAssemblyInfo.cache
+C:\Users\masan\OneDrive\Documents\GitHub\PipelineSample\PipelineSample\obj\Debug\netcoreapp2.2\PipelineSample.dll
+C:\Users\masan\OneDrive\Documents\GitHub\PipelineSample\PipelineSample\obj\Debug\netcoreapp2.2\PipelineSample.pdb
