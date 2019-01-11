@@ -1,1 +1,2 @@
 # PipelineSample
+[![Build Status](https://dev.azure.com/masanorimsl/PipelineSample/_apis/build/status/masanori840816.PipelineSample?branchName=master)](https://dev.azure.com/masanorimsl/PipelineSample/_build/latest?definitionId=10?branchName=master)
